@@ -7,6 +7,3 @@ github desktop
 
 
 test
-
-
-回滚
